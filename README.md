@@ -1,1 +1,1 @@
-# rtk-query-utils
+utils
