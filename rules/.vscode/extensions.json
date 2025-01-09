@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "dsznajder.es7-react-js-snippets",
+        "dbaeumer.vscode-eslint",
+        "christian-kohler.path-intellisense",
+        "bradlc.vscode-tailwindcss",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
